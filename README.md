@@ -194,8 +194,4 @@ Through this project, I demonstrated proficiency in:
 
 This project is part of academic coursework for Database Management Systems.
 
----
 
-**Course:** Database Management Systems  
-**Institution:** [Your University]  
-**Semester:** [Current Semester/Year]
